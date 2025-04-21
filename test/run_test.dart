@@ -12,7 +12,7 @@ void main() {
   group('Run', () {
     test('run1', () {
       final $yaml = ts.toYaml(testData);
-      print('\$yaml=${$yaml}');
+      print('\$yaml=`${$yaml}`');
       final $obj = ts.fromYaml($yaml);
       print('\$obj=${$obj}');
       final $json = ts.toJson($obj, '  ');

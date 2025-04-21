@@ -13,5 +13,5 @@ dynamic fromYaml(String $yaml) {
 String toYaml(dynamic $x) {
   final $yamlWriter = YamlWriter();
   final $yamlDoc = $yamlWriter.write($x);
-  return $yamlDoc.toString().trim();
+  return $yamlDoc.toString()/*.trim()*/;
 }

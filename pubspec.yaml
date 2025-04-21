@@ -1,6 +1,6 @@
 name: text_serializer
-description: text_serializer package project
-version: 2025.421.821
+description: text_serializer project
+version: 2025.421.1109
 homepage:
 repository: https://github.com/dart-pkg/text_serializer
 
@@ -14,5 +14,3 @@ dependencies:
 dev_dependencies:
   test: ^1.25.15
   lints: ^5.1.1
-  embed: ^1.4.1
-  build_runner: ^2.4.15

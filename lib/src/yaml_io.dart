@@ -11,7 +11,7 @@ dynamic fromYaml(String $yaml) {
 
 /// Converts a dart dynamic to a yaml string
 String toYaml(dynamic $x) {
-  final $yamlWriter = YamlWriter();
+  final $yamlWriter = YamlWriter(allowUnquotedStrings: true);
   final $yamlDoc = $yamlWriter.write($x);
-  return $yamlDoc.toString()/*.trim()*/;
+  return $yamlDoc.toString();
 }

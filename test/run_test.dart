@@ -3,6 +3,7 @@ import 'package:text_serializer/text_serializer.dart' as ts;
 
 final testData = {
   'name': 'Joe',
+  'url': null,
   'ids': [10, 20, 30],
   'desc': 'This is\na multiline\ntext',
   'enabled': true,

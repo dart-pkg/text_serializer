@@ -11,3 +11,7 @@
 ## 2025.423.1408
 
 - Within toYaml(): final $yamlWriter = YamlWriter(allowUnquotedStrings: true);
+
+## 2025.423.1428
+
+- toYaml() now does not quote string value

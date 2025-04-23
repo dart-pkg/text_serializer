@@ -1,6 +1,6 @@
 name: "text_serializer"
 description: "text_serializer project"
-version: "2025.423.1408"
+version: "2025.423.1428"
 homepage: null
 repository: "https://github.com/dart-pkg/text_serializer"
 environment:

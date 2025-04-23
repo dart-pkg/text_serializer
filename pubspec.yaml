@@ -1,6 +1,8 @@
 name: "text_serializer"
-description: "text_serializer project"
-version: "2025.423.1428"
+description: |-
+  [text_serializer]
+  A wrapper library for dart.convert.json and yaml/yaml_writer package
+version: "2025.423.1447"
 homepage: null
 repository: "https://github.com/dart-pkg/text_serializer"
 environment:

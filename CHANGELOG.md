@@ -15,3 +15,7 @@
 ## 2025.423.1428
 
 - toYaml() now does not quote string value
+
+## 2025.423.1447
+
+- Changed description of pubspec.yaml

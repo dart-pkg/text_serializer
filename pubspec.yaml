@@ -2,7 +2,7 @@ name: text_serializer
 description: |-
   [text_serializer]
   A wrapper library for dart.convert.json and yaml/yaml_writer packages.
-version: 2025.428.859
+version: 2025.428.923
 homepage: 
 repository: https://github.com/dart-pkg/text_serializer
 topics:

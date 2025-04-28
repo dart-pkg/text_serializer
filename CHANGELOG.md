@@ -27,3 +27,7 @@
 ## 2025.428.859
 
 - Introduced yaml_magic package
+
+## 2025.428.923
+
+- Fixed bug of toYaml() returning an empty string

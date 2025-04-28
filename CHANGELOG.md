@@ -23,3 +23,7 @@
 ## 2025.426.1009
 
 - Added: example/example.dart
+
+## 2025.428.859
+
+- Introduced yaml_magic package

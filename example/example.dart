@@ -21,7 +21,7 @@ main() {
 
 /* [Result]
 $yaml=`name: Joe
-url: null
+url:
 ids:
   - 10
   - 20

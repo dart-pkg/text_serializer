@@ -31,3 +31,7 @@
 ## 2025.428.923
 
 - Fixed bug of toYaml() returning an empty string
+
+## 2025.430.1719
+
+- Added: platforms in pubspec.yaml

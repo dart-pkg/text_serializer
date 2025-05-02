@@ -46,3 +46,18 @@
 -version: 2025.430.1719
 +version: 2025.502.1557
 ```
+
+## 2025.502.1757
+
+- Introduced dependency to yaml_io package
+
+```
+--- a/pubspec.yaml
++++ b/pubspec.yaml
+-version: 2025.502.1557
++version: 2025.502.1757
+-  yaml: ^3.1.3
+-  yaml_magic: ^1.0.6
+-  yaml_writer: ^2.1.0
++  yaml_io: ^2025.502.1751
+```

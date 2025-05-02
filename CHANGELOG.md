@@ -35,3 +35,14 @@
 ## 2025.430.1719
 
 - Added: platforms in pubspec.yaml
+
+## 2025.502.1557
+
+- Update README.md
+
+```
+--- a/pubspec.yaml
++++ b/pubspec.yaml
+-version: 2025.430.1719
++version: 2025.502.1557
+```
